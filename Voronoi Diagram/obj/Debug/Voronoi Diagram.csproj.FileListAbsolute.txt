@@ -1,0 +1,14 @@
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\bin\Debug\Voronoi Diagram.exe.config
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\bin\Debug\Voronoi Diagram.exe
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\bin\Debug\Voronoi Diagram.pdb
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\Voronoi Diagram.csprojResolveAssemblyReference.cache
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\MainWindow.g.cs
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\App.g.cs
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\Voronoi Diagram_MarkupCompile.cache
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\Voronoi Diagram_MarkupCompile.lref
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\MainWindow.baml
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\Voronoi Diagram.g.resources
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\Voronoi_Diagram.Properties.Resources.resources
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\Voronoi Diagram.csproj.GenerateResource.Cache
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\Voronoi Diagram.exe
+C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\Voronoi Diagram.pdb
