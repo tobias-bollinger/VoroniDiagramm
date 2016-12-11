@@ -1,0 +1,17 @@
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\bin\Release\Voronoi Diagram.exe.config
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\bin\Release\Voronoi Diagram.exe
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\bin\Release\Voronoi Diagram.pdb
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Release\MainWindow.g.cs
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Release\App.g.cs
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Release\Voronoi Diagram_MarkupCompile.cache
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Release\Voronoi Diagram_MarkupCompile.lref
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Release\MainWindow.baml
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Release\Voronoi Diagram.g.resources
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Release\Voronoi_Diagram.Properties.Resources.resources
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Release\Voronoi Diagram.csproj.GenerateResource.Cache
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Release\Voronoi Diagram.exe
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Release\Voronoi Diagram.pdb
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Release\Voronoi Diagram.csprojResolveAssemblyReference.cache
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoronoiDiagramm\Voronoi Diagram\bin\Release\Voronoi Diagram.exe.config
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoronoiDiagramm\Voronoi Diagram\obj\Release\Voronoi Diagram.exe
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoronoiDiagramm\Voronoi Diagram\obj\Release\Voronoi Diagram.pdb

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Voronoi_Diagram"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Voronoi / Delanay Diagramm" Height="350" Width="525" SizeChanged="Window_SizeChanged">
     <Window.Resources>
     </Window.Resources>
     <Grid>
@@ -14,12 +14,15 @@
             <RowDefinition Height="50"/>
         </Grid.RowDefinitions>
         <!--Drawing Canvas-->
-        <Canvas x:Name="PointCanvas" Grid.Row="0" MouseDown="Canvas_MouseDown" Background="#FFDBF3FC"/>
-        <Canvas x:Name="ConvexCanvas" Grid.Row="0"/>
+        <Canvas x:Name="PointCanvas" Grid.Row="0" MouseDown="Canvas_MouseDown" Background="#FFE9F6FB"/>
+        <Canvas x:Name="DelaunayCanvas" Grid.Row="0"/>
+        <Canvas x:Name="VoronoiCanvas" Grid.Row="0"/>
+        <Canvas x:Name="DebugCanvas" Grid.Row="0"/>
         <!-- Tool set -->
         <StackPanel Grid.Row="1" Orientation="Horizontal">
-            <Button Width="100" Click="Button_Click">Restet</Button>
+            <Button Width="100" Margin="5" Click="Reset_Click">Reset</Button>
+            <Button Width="100" Margin="5" Click="Delaunay_Click">Toggle Delaunay</Button>
+            <Button Width="100" Margin="5" Click="Voronoi_Click">Toggle Voronoi</Button>
         </StackPanel>
-        
     </Grid>
 </Window>

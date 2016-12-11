@@ -12,3 +12,17 @@ C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Vorono
 C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\Voronoi Diagram.csproj.GenerateResource.Cache
 C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\Voronoi Diagram.exe
 C:\Users\tobia\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\Voronoi Diagram\Voronoi Diagram\obj\Debug\Voronoi Diagram.pdb
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\bin\Debug\Voronoi Diagram.exe.config
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Debug\Voronoi Diagram.exe
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Debug\Voronoi Diagram.pdb
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\bin\Debug\Voronoi Diagram.exe
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\bin\Debug\Voronoi Diagram.pdb
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Debug\Voronoi Diagram.csprojResolveAssemblyReference.cache
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Debug\MainWindow.g.cs
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Debug\App.g.cs
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Debug\Voronoi Diagram_MarkupCompile.cache
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Debug\Voronoi Diagram_MarkupCompile.lref
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Debug\MainWindow.baml
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Debug\Voronoi Diagram.g.resources
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Debug\Voronoi_Diagram.Properties.Resources.resources
+D:\OneDrive\Dokumente\FHNW-MightyTower\efalg\Übungen\Uebung4\VoroniDiagramm\Voronoi Diagram\obj\Debug\Voronoi Diagram.csproj.GenerateResource.Cache

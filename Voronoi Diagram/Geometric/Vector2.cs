@@ -1,18 +1,13 @@
 ﻿using System;
 using System.Windows;
 
-namespace Voronoi_Diagram
+namespace Voronoi_Diagram.Geometric
 {
     /// <summary>
     /// Vector class by Tobias Bollinger
     /// </summary>
     public class Vector2
     {
-
-        //Copy contructor
-        //Scale	Multiplies two vectors component-wise.
-        //operator !=	Returns true if vectors different.
-        //operator ==	Returns true if the vectors are equal.
         public double X { get; set; }
         public double Y { get; set; }
 
@@ -43,6 +38,7 @@ namespace Voronoi_Diagram
         public double MagnitudeSqr => X * X + Y * Y;
         public double ManhattanDistance => Math.Abs(X) + Math.Abs(Y);
         public Vector2 Normalized => new Vector2(X / Magnitude, Y / Magnitude);
+        public Vector2 Perpendicular => new Vector2(X, -Y);
 
         public static Vector2 Up = new Vector2(1, 0);
         public static Vector2 Down = new Vector2(-1, 0);
@@ -124,7 +120,7 @@ namespace Voronoi_Diagram
         {
             return v1.X * v2.Y - v2.X * v1.Y;
         }
-
+        
         /// <summary>
         /// Linera interpolates between Vector a and Vector b
         /// </summary>
@@ -228,6 +224,12 @@ namespace Voronoi_Diagram
         public bool IsFurther(Vector2 p) => ManhattanDistance > p.ManhattanDistance;
 
         #endregion
+
+        public override bool Equals(object obj)
+        {
+            var vec = (Vector2) obj;
+            return vec != null && (Math.Abs(vec.X - X) < double.Epsilon && Math.Abs(vec.Y - Y) < double.Epsilon);
+        }
     }
 
     public static class MathHelper

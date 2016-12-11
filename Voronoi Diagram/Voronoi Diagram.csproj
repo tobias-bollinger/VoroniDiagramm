@@ -55,10 +55,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="ConvexHull\ConvexHull.cs" />
-    <Compile Include="ConvexHull\JarvisMarch.cs" />
-    <Compile Include="Vector2.cs" />
-    <Compile Include="Voroni\Voroni.cs" />
+    <Compile Include="Delaunay\Delaunay.cs" />
+    <Compile Include="Delaunay\Triangle.cs" />
+    <Compile Include="Geometric\Vector2.cs" />
+    <Compile Include="Geometric\Edge.cs" />
+    <Compile Include="Voroni\Voronoi.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -73,7 +74,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MainWindowViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
